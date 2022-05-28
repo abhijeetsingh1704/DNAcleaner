@@ -7,7 +7,7 @@
 program = 'DNAcleaner'
 version = ': version (1.0)\nAuthor: Abhijeet Singh <abhijeetsingh.aau@gmail.com>'
 citation = '''\n\nCitation: Singh, Abhijeet. DNAcleaner: a python utility to clean DNA sequences and headers.
-ResearchGate 2022, http://dx.doi.org/10.13140/RG.2.2.30762.29124, Available at GitHub: https://github.com/abhijeetsingh1704/DNAcleaner'''
+ResearchGate 2022, http://dx.doi.org/10.13140/RG.2.2.30762.29124/1, Available at GitHub: https://github.com/abhijeetsingh1704/DNAcleaner'''
 ###################################
 import sys
 import os
