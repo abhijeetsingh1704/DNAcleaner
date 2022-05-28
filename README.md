@@ -2,16 +2,14 @@
 a python utility to clean DNA sequences and headers
 
 
-
-
 ```
 usage: DNAcleaner [-h] -i INPUT [-f INPUT_FORMAT] [-o OUTPUT]
                   [-F OUTPUT_FORMAT] [-c Y/y or N/n] [-v Y/y or N/n] [-V]
 
 Cleans invalid bases/residues in DNA sequence file i.e., replaces invalid bases with Ns and optionally removes special characters from headers
 
-Citation: Singh, Abhijeet. 2022. DNAcleaner: a python utility to clean DNA sequences and headers
-GitHub: https://github.com/abhijeetsingh1704/DNAcleaner; DOI: xxxxxxx
+Citation: Singh, Abhijeet. DNAcleaner: a python utility to clean DNA sequences and headers.
+ResearchGate 2022, http://dx.doi.org/10.13140/RG.2.2.30762.29124, Available at GitHub: https://github.com/abhijeetsingh1704/DNAcleaner
 
 required arguments:
   -i INPUT, --input INPUT
@@ -38,3 +36,7 @@ options:
   -V, --version         show program's version number and exit
 
 ```
+
+## Citation
+Singh, Abhijeet. DNAcleaner: a python utility to clean DNA sequences and headers.
+ResearchGate 2022, http://dx.doi.org/10.13140/RG.2.2.30762.29124, Available at GitHub: https://github.com/abhijeetsingh1704/DNAcleaner
