@@ -9,7 +9,7 @@ usage: DNAcleaner [-h] -i INPUT [-f INPUT_FORMAT] [-o OUTPUT]
 Cleans invalid bases/residues in DNA sequence file i.e., replaces invalid bases with Ns and optionally removes special characters from headers
 
 Citation: Singh, Abhijeet. DNAcleaner: a python utility to clean DNA sequences and headers.
-ResearchGate 2022, http://dx.doi.org/10.13140/RG.2.2.30762.29124, Available at GitHub: https://github.com/abhijeetsingh1704/DNAcleaner
+ResearchGate 2022, http://dx.doi.org/10.13140/RG.2.2.30762.29124/1, Available at GitHub: https://github.com/abhijeetsingh1704/DNAcleaner
 
 required arguments:
   -i INPUT, --input INPUT
@@ -39,4 +39,4 @@ options:
 
 ## Citation
 Singh, Abhijeet. DNAcleaner: a python utility to clean DNA sequences and headers.
-ResearchGate 2022, http://dx.doi.org/10.13140/RG.2.2.30762.29124, Available at GitHub: https://github.com/abhijeetsingh1704/DNAcleaner
+ResearchGate 2022, http://dx.doi.org/10.13140/RG.2.2.30762.29124/1, Available at GitHub: https://github.com/abhijeetsingh1704/DNAcleaner
